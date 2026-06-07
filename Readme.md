@@ -106,7 +106,7 @@ SortingVisualizer/
 
 ## Author
 
-Your Name
+Kartik Yadav Gurve
 
 ## License
 
